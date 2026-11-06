@@ -1,0 +1,8 @@
+body {
+    display: flex;
+}
+
+.navigatiebar {
+    text-decoration: none;
+    color: black;
+}
